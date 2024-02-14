@@ -3,6 +3,8 @@ From Zero to Devops 🔜
 
 Learn DevOps in six months! Stay tuned for updates by starring 🌟 this repository.
 
+Choose between [AWS](#AWS Track) and [Open-Source](#Open-Source Track)
+
 # AWS Track 
 
 | Week Number | Topic | Learning Hours | Practicing Hours | Total Hours |
