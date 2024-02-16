@@ -3,9 +3,9 @@ From Zero to Devops 🔜
 
 Learn DevOps in six months! Stay tuned for updates by starring 🌟 this repository.
 
-Choose between [AWS ☁️](#aws-track-☁️) and [Open-Source 🆓](#open-source-track-🆓)
+Choose between [AWS](#aws-track) and [Open-Source](#open-source-track)
 
-# AWS Track ☁️
+# AWS Track
 
 | Week Number | Topic | Learning Hours | Practicing Hours | Total Hours |
 | ----------- | ----- | -------------- | ---------------- | ----------- |
@@ -36,7 +36,7 @@ Choose between [AWS ☁️](#aws-track-☁️) and [Open-Source 🆓](#open-sour
 | Week 25     | Preparing for AWS Certified DevOps Engineer Exam | 10 | 20 | 30 |
 | Week 26     | Review and Final Project | 10 | 20 | 30 |
 
-# Open-Source Track 🆓
+# Open-Source Track
 
 | Week Number | Topic | Learning Hours | Practicing Hours | Total Hours |
 | ----------- | ----- | -------------- | ---------------- | ----------- |
