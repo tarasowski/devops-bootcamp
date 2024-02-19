@@ -42,7 +42,7 @@ Choose between [AWS](#aws-track) and [Open-Source](#open-source-track)
 | ----------- | ----- | -------------- | ---------------- | ----------- |
 | Week 1      | Introduction to DevOps | 10 | 20 | 30 |
 | Week 2      | Linux Basics | 10 | 20 | 30 |
-| Week 3      | Git and Version Control[1](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html) [2](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) | 10 | 20 | 30 |
+| Week 3      | Git and Version Control [1](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html) [2](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) | 10 | 20 | 30 |
 | Week 4      | Introduction to Cloud Computing | 10 | 20 | 30 |
 | Week 5      | Infrastructure as Code with Terraform | 10 | 20 | 30 |
 | Week 6      | Configuration Management with Ansible | 10 | 20 | 30 |
